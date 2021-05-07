@@ -5,8 +5,6 @@
 I am a web developer
 
 - 🔭 I’m currently working in Meituan
-- 🌱 I’m living in shanghai
-- 🤔 I Have developed pages such as Black Pearl, Must-eat List, Free Try（Overlord meal）, etc.
-- 📫 I Currently responsible for the Free-Try business of DaZhongDianPing
+- 🌱 I Have developed pages such as Free-Try（Overlord meal）, Black Pearl, Must-eat List, etc.
 - 😄 Reach me on [WeChat](https://p1.meituan.net/ifepiclib/7746e4b63732d8fad8ace7b0a3eb52ab69735.jpg)
 
